@@ -2,6 +2,8 @@
 
 ### Introduction
 
+![banana_env](https://github.com/danny-bit/udacity_rl/assets/59084863/4624b001-813b-40f7-804e-954d9b17a99e)
+
 In this project,  an agent was trained to navigate a large, square world and to collect bananas.
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.  Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.  
@@ -31,3 +33,6 @@ The task is episodic, and in order to solve the environment, your agent must get
 ### Instructions
 
 Follow `Navigation.ipynb` to see how the agent was trained.
+The learned model weights can be found in 
+- checkpoint.pth (latest solved environment weights)
+- checkpoint_best.pth (weights of the model with the highest average score over last 100 episodes)

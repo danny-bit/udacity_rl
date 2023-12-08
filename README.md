@@ -1,1 +1,1 @@
-# Udacity-RL
+Repository containing solved projects of Udacity RL nanodegree
