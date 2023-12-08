@@ -28,5 +28,5 @@ The task is episodic, and in order to solve the environment, the the average sco
 
 Follow `Continuous_Control.ipynb` to see how the agent was trained.
 The learned model weights can be found in 
-- checkpoint.pth (latest solved environment weights)
-- checkpoint_best.pth (weights of the model with the highest average score over last 100 episodes)
+- checkpoint_actor.pth, checkpoint_critic.pth (latest solved environment weights)
+- checkpoint_actor_best.pth, checkpoint_critic_best.pth (weights of the model with the highest average score over last 100 episodes)
