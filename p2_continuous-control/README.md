@@ -1,15 +1,13 @@
 # Project 1: Navigation
 
+![reacher_env](https://github.com/danny-bit/udacity_rl/assets/59084863/cf66f57e-818a-4d8a-95d1-ef9a6acf08dd)
+
 ### Introduction
 
 The environment is a Unity environment called Reacher-v2.
 The goal is to train an agent that can move a double-jointed robot arm to target locations.
 
-A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.  Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.  
-
-~\\
 A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible.
-
 The task is episodic, and in order to solve the environment, the the average score of all agent must get an average score of +30 over 100 consecutive episodes.
 
 ### Getting Started
