@@ -33,3 +33,6 @@ The task is episodic, and in order to solve the environment, your agent must get
 ### Instructions
 
 Follow `Navigation.ipynb` to see how the agent was trained.
+The learned model weights can be found in 
+- checkpoint.pth (latest solved environment weights)
+- checkpoint_best.pth (weights of the model with the highest average score over last 100 episodes)
