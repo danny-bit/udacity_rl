@@ -1,5 +1,7 @@
 # Project 3: Collaboration and Competition
 
+![tennis_env](https://github.com/danny-bit/udacity_rl/assets/59084863/57210724-e4d1-42b9-b4a8-af4709d15d54)
+
 ### Introduction
 
 The environment is a Unity environment called Tennis.
@@ -11,13 +13,12 @@ Thus each agent wants to keep the ball at play.
 ### Getting Started
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
-        - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
-        - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip)
-        - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
-        - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
+     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
+     - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip)
+     - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
+     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
 
-
-2. Place the file in the `p3_collab-compet/` folder, and unzip (or decompress) the file. 
+3. Place the file in the `p3_collab-compet/` folder, and unzip (or decompress) the file. 
 
 ### Instructions
 
