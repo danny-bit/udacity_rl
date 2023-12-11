@@ -1,5 +1,7 @@
 # Project 3: Collaboration and Competition
 
+![tennis_env](https://github.com/danny-bit/udacity_rl/assets/59084863/57210724-e4d1-42b9-b4a8-af4709d15d54)
+
 ### Introduction
 
 The environment is a Unity environment called Tennis.
