@@ -1,4 +1,4 @@
-# Project 2: Navigation
+# Project 2: Continous control
 
 ![reacher_env](https://github.com/danny-bit/udacity_rl/assets/59084863/cf66f57e-818a-4d8a-95d1-ef9a6acf08dd)
 
